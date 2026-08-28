@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zohaib Khan
 
-**Junior Web Developer | React & Next.js Specialist**
+** Web Developer | MERN & Next.js Specialist**
 
 <div align="center">
 
