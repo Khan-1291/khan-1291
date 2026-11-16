@@ -139,6 +139,9 @@ A practice project demonstrating Next.js best practices and modern web developme
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Khan-1291&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://demolab.com)
+![Profile Views](https://komarev.com)
+![Activity Graph](https://vercel.app)
+![GitHub Streak](https://demolab.com)
 
 
 </div>
