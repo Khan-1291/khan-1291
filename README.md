@@ -133,10 +133,13 @@ A practice project demonstrating Next.js best practices and modern web developme
 ## 📈 GitHub Stats
 
 <div align="center">
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Khan-1291&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khan-1291&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Khan-1291&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://demolab.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-1291&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
